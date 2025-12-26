@@ -62,7 +62,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 **Data Analysis & Visualization:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -81,9 +80,9 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 📈 GitHub Statistics
 
-[![Vasanth4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanth4321&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Vasanth4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanth4321&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth4321&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth4321&layout=compact&theme=dark)
 
 ---
 
@@ -99,9 +98,9 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth4321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-neeli/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasanth4321)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasanthneeli4@gmail.com)
 
 ---
 
