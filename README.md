@@ -78,14 +78,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ---
 
-## 📈 GitHub Statistics
-
-[![Vasanth4321's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vasanth4321&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanth4321&layout=compact&theme=dark)
-
----
-
 ## 🌟 Currently Learning
 
 - 📚 Advanced Statistics & Hypothesis Testing
