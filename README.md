@@ -24,7 +24,13 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🎯 Key Projects
 
+### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
 
+**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [🔗 View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
+
+- AI-powered data analyst agent that profiles any CSV and generates a 0–100 data quality score
+- Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq (Llama 3)
+- Built for an AI/ML Intern Hiring Hackathon; exports all insights as a downloadable JSON file
 
 ### 💬 [Naive Bayes Sentiment Analysis](https://github.com/Vasanth4321/Naives_Bayes_Sentimental_Analysis)
 
@@ -84,13 +90,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - Advanced SQL concepts: window functions, CTEs, query optimization
 - Complex problem-solving with real-world scenarios
 
-### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
-
-**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [🔗 View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
-
-- AI-powered data analyst agent that profiles any CSV and generates a 0–100 data quality score
-- Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq (Llama 3)
-- Built for an AI/ML Intern Hiring Hackathon; exports all insights as a downloadable JSON file
 
 ## 💻 Tech Stack
 
