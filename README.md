@@ -24,13 +24,7 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🎯 Key Projects
 
-### 🏦 [Loan Approval Prediction](https://github.com/Vasanth4321/Loan_Approval_Prediction)
 
-**Technologies:** Python, scikit-learn, Streamlit | **Live App:** [🔗 View App](https://loanapprovalprediction-lqrymmlujf4xasg3hjfq6g.streamlit.app/)
-
-- ML web app that predicts whether a loan application will be approved or rejected
-- Classification model trained on 11 financial & demographic features
-- Deployed live on Streamlit Cloud with an interactive UI
 
 ### 💬 [Naive Bayes Sentiment Analysis](https://github.com/Vasanth4321/Naives_Bayes_Sentimental_Analysis)
 
@@ -40,13 +34,13 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - NLTK text preprocessing pipeline with CountVectorizer
 - Deployed on Streamlit Cloud for real-time predictions
 
-### 💎 [KNN Diamond Price Prediction](https://github.com/Vasanth4321/KNN_Diamond_Price_Prediction)
+### 🍽️ [EazyDiner Restaurant Analysis](https://github.com/Vasanth4321/EazyDiner-Restaurant-Analysis)
 
-**Technologies:** Python, scikit-learn (KNN), Streamlit | **Live App:** [🔗 View App](https://knndiamondpriceprediction-mfdumz7bn6aqmk7hxm5cnd.streamlit.app/)
+**Technologies:** Web Scraping, Python, EDA | **Scope:** Bengaluru restaurants
 
-- Predicts diamond prices using K-Nearest Neighbors (KNN) regression
-- Features: carat, cut, color, clarity, and dimensions
-- Interactive Streamlit web app deployed on Streamlit Cloud
+- Web scraping data collection from EazyDiner platform
+- Restaurant ratings, cuisines, and customer preference analysis
+- Data cleaning and exploratory insights for restaurant industry
 
 ### 🛒 [Flipkart Sentiment Analysis](https://github.com/Vasanth4321/Flipkart-Sentiment-Analysis)
 
@@ -56,13 +50,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - TF-IDF vectorization with ML classification model
 - Deployed on Streamlit Cloud with a clean, intuitive interface
 
-### 🚫 [Spam-Ham Message Predictor](https://github.com/Vasanth4321/spam-ham-predictor-streamlit)
-
-**Technologies:** Python, NLP, Machine Learning, Streamlit | **Live App:** [🔗 View App](https://spam-ham-predictor-app-v5jdvpr8xxg5ue5wejhkrz.streamlit.app/)
-
-- Spam/ham message classifier built with machine learning
-- NLP preprocessing pipeline for text classification
-- Deployed on Streamlit Cloud
 
 ### 📊 [India Agriculture Crop Production Analysis](https://github.com/Vasanth4321/India-Agriculture-Crop-Analysis)
 
@@ -88,13 +75,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - District-wise trends and seasonal patterns
 - Geospatial insights for weather-related planning
 
-### 🍽️ [EazyDiner Restaurant Analysis](https://github.com/Vasanth4321/EazyDiner-Restaurant-Analysis)
-
-**Technologies:** Web Scraping, Python, EDA | **Scope:** Bengaluru restaurants
-
-- Web scraping data collection from EazyDiner platform
-- Restaurant ratings, cuisines, and customer preference analysis
-- Data cleaning and exploratory insights for restaurant industry
 
 ### 🎄 [SQL Advent Calendar Solutions](https://github.com/Vasanth4321/sql-advent-calendar-solutions)
 
@@ -103,6 +83,14 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - Solutions to Interview Master's 24-day SQL Advent Calendar challenge
 - Advanced SQL concepts: window functions, CTEs, query optimization
 - Complex problem-solving with real-world scenarios
+
+### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
+
+**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [🔗 View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
+
+- AI-powered data analyst agent that profiles any CSV and generates a 0–100 data quality score
+- Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq (Llama 3)
+- Built for an AI/ML Intern Hiring Hackathon; exports all insights as a downloadable JSON file
 
 ## 💻 Tech Stack
 
