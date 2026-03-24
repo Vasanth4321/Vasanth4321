@@ -4,9 +4,9 @@
 
 I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Analyst** transitioning into the field with a strong foundation in **Exploratory Data Analysis (EDA)**, **SQL**, **Python**, **Machine Learning**, and **Data Visualization**.
 
-🎓 **Education:** B.Tech in Electronics & Communication Engineering | Data Science Intensive at Innomatics Research Lab
+🎓 **Education:** B.Tech in Electronics & Communication Engineering
 
-💼 **Current Role:** Data Science Intern / Entry-level Data Analyst
+💼 **Current Role:** Data Science Intern
 
 📍 **Location:** Hyderabad, India
 
@@ -24,9 +24,17 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🎯 Key Projects
 
+### 🏦 [Term Deposit Subscription Model](https://github.com/Vasanth4321/term-deposit-subscription-model)
+
+**Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://term-deposit-subscription-model-gnfxjggcxqnbvyh9okvcgf.streamlit.app/)
+
+- Predicts whether a bank customer will subscribe to a term deposit based on demographic and campaign interaction data
+- Performed exploratory data analysis and feature engineering to handle class imbalance and improve signal in marketing features
+- Trained and compared multiple classification models (Logistic Regression, Random Forest, XGBoost), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
+
 ### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
 
-**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [🔗 View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
+**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
 
 - AI-powered data analyst agent that profiles any CSV and generates a 0–100 data quality score
 - Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq (Llama 3)
@@ -34,7 +42,7 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ### 💬 [Naive Bayes Sentiment Analysis](https://github.com/Vasanth4321/Naives_Bayes_Sentimental_Analysis)
 
-**Technologies:** Python, NLTK, Naive Bayes, CountVectorizer, Streamlit | **Live App:** [🔗 View App](https://naivesbayessentimentalanalysis-ezxw7yjwpbbsyiwhujxzwa.streamlit.app/)
+**Technologies:** Python, NLTK, Naive Bayes, CountVectorizer, Streamlit | **Live App:** [View App](https://naivesbayessentimentalanalysis-ezxw7yjwpbbsyiwhujxzwa.streamlit.app/)
 
 - Classifies restaurant reviews as Positive or Negative using Naive Bayes
 - NLTK text preprocessing pipeline with CountVectorizer
@@ -47,15 +55,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - Web scraping data collection from EazyDiner platform
 - Restaurant ratings, cuisines, and customer preference analysis
 - Data cleaning and exploratory insights for restaurant industry
-
-### 🛒 [Flipkart Sentiment Analysis](https://github.com/Vasanth4321/Flipkart-Sentiment-Analysis)
-
-**Technologies:** Python, NLP, TF-IDF, scikit-learn, Streamlit | **Live App:** [🔗 View App](https://flipkart-sentiment-analysis-nypefhplen7wjr3db3336w.streamlit.app/)
-
-- Real-time sentiment classifier for Flipkart product reviews (Positive / Negative)
-- TF-IDF vectorization with ML classification model
-- Deployed on Streamlit Cloud with a clean, intuitive interface
-
 
 ### 📊 [India Agriculture Crop Production Analysis](https://github.com/Vasanth4321/India-Agriculture-Crop-Analysis)
 
