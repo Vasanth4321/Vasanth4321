@@ -8,8 +8,6 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 💼 **Current Role:** Data Science Intern
 
-📍 **Location:** Hyderabad, India
-
 ## 🚀 What I Do
 
 ✅ **Exploratory Data Analysis (EDA)** - Uncovering insights from complex datasets  
@@ -24,13 +22,13 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🎯 Key Projects
 
-### 🏦 [Term Deposit Subscription Model](https://github.com/Vasanth4321/term-deposit-subscription-model)
+### 🏦 [TermTrack - Bank Marketing Classifier](https://github.com/Vasanth4321/bank-marketing-classifier.git)
 
-**Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://term-deposit-subscription-model-gnfxjggcxqnbvyh9okvcgf.streamlit.app/)
+**Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://bank-marketing-classifier-nr6m28sx5ejnjupbu65qka.streamlit.app/)
 
-- Predicts whether a bank customer will subscribe to a term deposit based on demographic and campaign interaction data
+- Predicts whether a bank customer will subscribe to a term deposit based on demographics, financial and campaign interaction data
 - Performed exploratory data analysis and feature engineering to handle class imbalance and improve signal in marketing features
-- Trained and compared multiple classification models (Logistic Regression, Random Forest, XGBoost), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
+- Trained and compared multiple classification models (XGBoost, LightGBM), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
 
 ### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
 
