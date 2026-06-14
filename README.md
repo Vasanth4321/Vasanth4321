@@ -22,7 +22,7 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 ## 🎯 Key Projects
 
-### 🏦 [TermTrack - Bank Marketing Classifier](https://github.com/Vasanth4321/bank-marketing-classifier.git)
+### 🏦 [TermTrack - Bank Marketing Classifier](https://github.com/Vasanth4321/bank-marketing-classifier)
 
 **Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://bank-marketing-classifier-nr6m28sx5ejnjupbu65qka.streamlit.app/)
 
@@ -30,12 +30,28 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 - Performed exploratory data analysis and feature engineering to handle class imbalance and improve signal in marketing features
 - Trained and compared multiple classification models (XGBoost, LightGBM), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
 
+### 🎫 [AI Support Ticket Triager — Multi-Chain Automated Escalation Pipeline](https://github.com/Vasanth4321/Gen-Ai/tree/main/AI_Support_Ticket_Triager)
+
+**Technologies:** Python, Streamlit, LangChain, Groq API | **Live App:** [View App](https://huggingface.co/spaces/vasanth-4321/Customer_Ticket_Classifier)
+
+- AI-powered automation agent deployed on Hugging Face that ingests, cleans, and sanitizes unstructured support tickets
+- Executes multiple LLM classification chains concurrently to extract ticket categories, prioritize tasks, and draft immediate replies
+- Built for scalable support routing; structures complex backend schema outputs into an organized live Streamlit dashboard
+
+### 🤖 [Blog Assistant Chatbot — AI Conversational Content Generator](https://github.com/Vasanth4321/Gen-Ai/tree/main/Blog_Assistant_Chatbot)
+
+**Technologies:** Python, Streamlit, Google Gemini API, Markdown | **Live App:** [View App](https://gen-ai-bdlgw47ztjyvrcq7wxcyak.streamlit.app/)
+
+- AI-powered writing companion deployed on Hugging Face that helps users brainstorm blog ideas and build structured content outlines
+- Delivers real-time textual improvements, contextual content refinement, and SEO-friendly writing suggestions via Gemini
+- Built with stateful conversation memory; allows downloading individual responses or complete chat logs as Markdown files
+
 ### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
 
-**Technologies:** Python, Streamlit, Groq API (Llama 3), Pandas, NumPy | **Live App:** [View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
+**Technologies:** Python, Streamlit, Groq API , Pandas, NumPy | **Live App:** [View App](https://datascout-ai-tcptroblhudte4uxeipaph.streamlit.app/)
 
 - AI-powered data analyst agent that profiles any CSV and generates a 0–100 data quality score
-- Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq (Llama 3)
+- Delivers AI-generated business insights, cleaning recommendations, and KPI suggestions via Groq 
 - Built for an AI/ML Intern Hiring Hackathon; exports all insights as a downloadable JSON file
 
 ### 💬 [Naive Bayes Sentiment Analysis](https://github.com/Vasanth4321/Naives_Bayes_Sentimental_Analysis)
