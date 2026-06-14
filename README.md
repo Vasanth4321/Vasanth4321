@@ -2,33 +2,22 @@
 
 ## About Me
 
-I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Analyst** transitioning into the field with a strong foundation in **Exploratory Data Analysis (EDA)**, **SQL**, **Python**, **Machine Learning**, and **Data Visualization**.
+I'm **Vasanth**, a **Data Scientist & GenAI Engineer** specializing in building intelligent systems using **Large Language Models (LLMs)**, **Agentic Workflows**, **Deep Learning**, and **Production-Grade AI Pipelines**.
 
 🎓 **Education:** B.Tech in Electronics & Communication Engineering
 
-💼 **Current Role:** Data Science Intern
+💼 **Current Role:** Data Science & AI Intern
 
 ## 🚀 What I Do
 
-✅ **Exploratory Data Analysis (EDA)** - Uncovering insights from complex datasets  
-✅ **Machine Learning** - Building and deploying classification & regression models  
-✅ **NLP & Sentiment Analysis** - Text preprocessing, TF-IDF, Naive Bayes, and more  
-✅ **SQL Database Management** - Designing queries, optimization, and data engineering  
-✅ **Python Data Analysis** - Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-✅ **Power BI Dashboarding** - Creating interactive visualizations and reports  
-✅ **Statistical Analysis** - Hypothesis testing and data interpretation  
-✅ **Web Scraping** - Collecting and cleaning real-world data  
-✅ **Streamlit App Deployment** - Building and deploying ML-powered web applications
+✅ **Generative AI & LLMOps** - Developing multi-chain applications, RAG architectures, and tracing workflows  
+✅ **Agentic AI Systems** - Building autonomous AI agents for specialized domain tasks  
+✅ **Deep Learning & NLP** - Training neural networks, sequence modeling, and advanced text processing  
+✅ **Machine Learning Engineering** - End-to-end model training, evaluation, and pipeline deployment  
+✅ **App Deployment** - Cloud deployment of AI applications (Streamlit, Hugging Face Spaces)  
+✅ **Data Engineering & SQL** - Complex query optimization, schema design, and data pipeline management  
 
 ## 🎯 Key Projects
-
-### 🏦 [TermTrack - Bank Marketing Classifier](https://github.com/Vasanth4321/bank-marketing-classifier)
-
-**Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://bank-marketing-classifier-nr6m28sx5ejnjupbu65qka.streamlit.app/)
-
-- Predicts whether a bank customer will subscribe to a term deposit based on demographics, financial and campaign interaction data
-- Performed exploratory data analysis and feature engineering to handle class imbalance and improve signal in marketing features
-- Trained and compared multiple classification models (XGBoost, LightGBM), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
 
 ### 🎫 [AI Support Ticket Triager — Multi-Chain Automated Escalation Pipeline](https://github.com/Vasanth4321/Gen-Ai/tree/main/AI_Support_Ticket_Triager)
 
@@ -42,9 +31,17 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 
 **Technologies:** Python, Streamlit, Google Gemini API, Markdown | **Live App:** [View App](https://gen-ai-bdlgw47ztjyvrcq7wxcyak.streamlit.app/)
 
-- AI-powered writing companion deployed on Hugging Face that helps users brainstorm blog ideas and build structured content outlines
+- AI-powered writing companion deployed on Streamlit that helps users brainstorm blog ideas and build structured content outlines
 - Delivers real-time textual improvements, contextual content refinement, and SEO-friendly writing suggestions via Gemini
 - Built with stateful conversation memory; allows downloading individual responses or complete chat logs as Markdown files
+
+### 🏦 [TermTrack - Bank Marketing Classifier](https://github.com/Vasanth4321/bank-marketing-classifier)
+
+**Technologies:**  Python, Pandas, scikit-learn, EDA, Classification Models, Streamlit | **Live App:** [View App](https://bank-marketing-classifier-nr6m28sx5ejnjupbu65qka.streamlit.app/)
+
+- Predicts whether a bank customer will subscribe to a term deposit based on demographics, financial and campaign interaction data
+- Performed exploratory data analysis and feature engineering to handle class imbalance and improve signal in marketing features
+- Trained and compared multiple classification models (XGBoost, LightGBM), selecting the best model based on F1‑score and recall for the “Customer Subscriptions”
 
 ### 🤖 [DataScout AI — AI Data Insight & Data Quality Agent](https://github.com/Vasanth4321/DataScout-AI)
 
@@ -121,20 +118,27 @@ I'm **Venkata Sai Vasanth Neeli** (Vasanth), a passionate **Data Scientist & Ana
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
+**Generative AI, LLMOps & Deep Learning:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **Tools & Platforms:**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
 
 ## 🌟 Currently Learning
 
 - 📚 Advanced Statistics & Hypothesis Testing
-- 🤖 Machine Learning Algorithms & Model Evaluation
-- 🧠 Generative AI & LLM Integration
-- 💾 Advanced SQL (Window Functions, Stored Procedures)
-- 🤖 Agentic AI Systems
+- 🧠 Multi-Agent Frameworks
+- 🗄️ Vector Databases & Advanced RAG Optimization
+- 📉 LLM Fine-Tuning & Quantization Techniques
+- 🧪 LLMOps Monitoring & Evaluation Frameworks
 
 ## 🔗 Connect With Me
 
